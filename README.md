@@ -1,10 +1,5 @@
 # FablabDemo
 Démo FabLab
 
+[Page web](https://softcyd.github.io/FablabDemo/)
 
-Edition 
-
-
-Test modif
-
-re modif
